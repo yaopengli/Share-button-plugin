@@ -1,0 +1,7 @@
+Creating this Javascript for the website which is not built by Wordpress.
+
+This plugin includes "Fackbook Like", "Facebook Share", "Tweet", "Google +1", "LinkedIn Share" and "Digg".
+
+How to use:
+1. Add "<script type="text/javascript" src="http:///connect.facebook.net//en_US//all.js#xfbml=1"></script>" and "<script src="sharebar.js" type="text/javascript"></script>" inside the <head></head> tag. (jquery.js is required)
+2. Add "<div id="sharebar"></div>" after <body> tag.
